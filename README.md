@@ -33,7 +33,7 @@ Navigate to your pages url under `https://username.github.io/repo` to verify tha
 You may also want to set your website URL to your pages url:  
 ![Something has gone wrong.](assets/images/use_pages_site.png)  
 so it's easily accesible.
-If everything compiled correctly, you should see this exact file rendered as the index of your site! If so, you can move on to the next step, if not, please open an issue at https://github.com/razvii22/bakery-wiki-skeleton/issues/new and I will do my best to help.
+If everything compiled correctly, you should see this exact file rendered as the index of your site! If so, you can move on to the next step, if not, please open an issue at [our issue tracker](https://github.com/razvii22/bakery-wiki-skeleton/issues/new) and I will do my best to help.
 
 ## Setup
 Navigate to your new repository's `config.yml` file, you will want to configure this a bit.
