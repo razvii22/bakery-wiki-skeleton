@@ -4,11 +4,9 @@ accent-dark: "red"
 accent-light: "darkred"
 ---
 # Bakery Wiki Skeleton
----
 The highly opinionated, infinitely less configurable, good out of the box fork of [Git-Wiki-Theme](https://github.com/Drassil/git-wiki-theme).
 
 # Getting started
----
 ## Initial deployment
 ### Creating the repo
 First, you need to click "Use this template" at the top right, and choose "Create a new repository".  
